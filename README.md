@@ -2,7 +2,7 @@
 
 You won't find very ambitious projects there. Just my small projects that I made for fun. 
 
-- I'm currently working on Discord BOT 🤖 that sends you infromation about your CS:GO items prices!
+- I'm currently working on Discord BOT 🤖 that sends you infromation about your CS:GO items prices and in the meantime I'm working on my library 📚 project.
 - My code isn't the greatest 💀 so any pull requests are welcome!
 - My tech stack 🛠:
 
