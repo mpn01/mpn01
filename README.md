@@ -4,7 +4,7 @@ You won't find very ambitious projects there. Just my small projects that I made
 
 - I'm currently working on Discord BOT 🤖 that sends you infromation about your CS:GO items prices!
 - My code isn't the greatest 💀 so any pull requests are welcome!
-- My tech stack:
+- My tech stack :
 
 <div style="display: flex-inline">
   <img src="https://img.shields.io/badge/Python-05122A?style=flat-square&logo=python" alt="python" />
