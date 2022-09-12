@@ -17,6 +17,7 @@ You won't find very ambitious projects there. Just my small projects that I made
   <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat-square&logo=sqlite" alt="SQLite"/>
   <img src="https://img.shields.io/badge/-Apache-05122A?style=flat-square&logo=apache" alt="Apache"/>
+  <img src="https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=linux" alt="Linux"/>
   <br/>
   ... and more on the way!
 </div>
