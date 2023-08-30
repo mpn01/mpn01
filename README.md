@@ -2,7 +2,7 @@
 
 You won't find very ambitious projects there. Just my small projects that I made for fun. 
 
-- I'm currently working on Python 🐍 Discord BOT 🤖 that sends you infromation about your CS:GO items prices and in the meantime I'm working on my library 📚 project written in PHP 🐘.
+- I'm currently working on search through PBM 📚 API app written in Python 🐍 and HTMX.
 - My code isn't the greatest 💀 so any pull requests are welcome!
 - My tech stack 🛠:
 
