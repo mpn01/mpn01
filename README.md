@@ -2,22 +2,22 @@
 
 You won't find very ambitious projects there. Just my small projects that I made for fun. 
 
-- I'm currently working on search through PBM 📚 API app written in Python 🐍 and HTMX.
+- I'm currently learning Docker
+- API lover 💕
+- Mostly code in 🐍 Python, somtimes even 💅 frontend.
 - My code isn't the greatest 💀 so any pull requests are welcome!
 - My tech stack 🛠:
 
 <div style="display: flex-inline">
-  <img src="https://img.shields.io/badge/Python-05122A?style=flat-square&logo=python" alt="python" />
-  <img src="https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git" alt="Git" />
-  <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat-square&logo=markdown" alt="Markdown" />
-  <img src="https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=php" alt="PHP" />
-  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5" alt="HTML" />
-  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3" alt="CSS"/>
-  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat-square&logo=sqlite" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/-Apache-05122A?style=flat-square&logo=apache" alt="Apache"/>
-  <img src="https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=linux" alt="Linux"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python-python?logo=python&labelColor=yellow&color=blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Git-Git?logo=git&labelColor=gray&color=red">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Markdown-Markdown?logo=markdown&labelColor=gray&color=blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTML-HTML?logo=html5&labelColor=white&color=orange">
+  <img alt="Static Badge" src="https://img.shields.io/badge/CSS-CSS?logo=css3&labelColor=lightblue&color=blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/SQLite-SQLite?logo=sqlite&labelColor=lightblue&color=blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Nginx-Nginx?logo=nginx&labelColor=lightgreen&color=darkgreen">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Linux-Linux?logo=linux&labelColor=white&color=yellow">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Docker-Docker?logo=docker&labelColor=lightblue&color=blue">
   <br/>
   ... and more on the way!
 </div>
