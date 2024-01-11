@@ -1,10 +1,11 @@
 ## Hello there 👋
 
-I'm SysAdmin working for Polskie Wydawnictwo Muzyczne. A few things about me:
-- I'm currently learning Docker nad Kubernetes
-- API lover 💕
-- Mostly code in 🐍 Python, somtimes even 💅 frontend.
-- My code isn't the greatest 💀 so any pull requests are welcome!
+I'm SysAdmin but currently jobbles 💀. A few things about me:
+- Learning Docker 🐋 ecosystem,
+- API lover 💕,
+- Mostly code in Python 🐍, somtimes even frontend 💅,
+- Opensource enjoyer 👍,
+- My code isn't the greatest 💀 - any pull requests are welcome!
 - My tech stack 🛠:
 
 <div style="display: flex-inline">
